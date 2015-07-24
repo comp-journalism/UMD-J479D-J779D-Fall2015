@@ -84,7 +84,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - The Data Journalism Handbook. 2012. Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
   
 - In class tutorial
-  - Interactive Data Visualization for the Web. Chapter 5. [Data](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
+  - Interactive Data Visualization for the Web. Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
   
 - At home tutorials
   - [TODO] MySQL
