@@ -1,5 +1,5 @@
 ###JOUR479D / JOUR779D: Storytelling with Data Visualization - Fall 2015###
-***University of Maryland, College Park, College of Journalism***  
+**University of Maryland, College Park, College of Journalism**  
 **Mondays 1:00pm - 3:45pm**  
 **Location: Knight Hall Room 2107**
 
