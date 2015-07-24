@@ -73,8 +73,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
   
 - At home tutorials:
-  - Github
-  - Javascript
+  - [TODO] Github
+  - [TODO] Javascript
 
 #####September 7 - No class, Labor Day!#####
 
@@ -87,7 +87,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Interactive Data Visualization for the Web. Chapter 5. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch05.html">Data</a>
   
 - At home tutorials
-  - [Todo] MySQL
+  - [TODO] MySQL
   
 #####September 21 - #####
 #####September 28 - #####
