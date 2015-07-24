@@ -99,16 +99,18 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 #####October 12 - Exploratory Visualization & Visual Analytics#####
 
-#####October 26 - Explanatory and Narrative Visualization#####
+#####October 19 - Explanatory and Narrative Visualization#####
 
-#####November 2 - Visualization Rhetoric & Critique#####
+#####October 26 - Visualization Rhetoric & Critique#####
 
-#####November 9 - User Experience & Usability Evaluation#####
+#####November 2 - User Experience & Usability Evaluation#####
 
-#####November 16 - Network, Timeline, and Text Visualizations#####
+#####November 9 - Network, Timeline, and Text Visualizations#####
+
+#####November 16 - Map Visualizations#####
 
 #####November 23 - Class feedback on final projects#####
 
-#####November 30 - Map Visualizations#####
+#####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization#####
 
 #####December 7 - Final Project Presentations#####
