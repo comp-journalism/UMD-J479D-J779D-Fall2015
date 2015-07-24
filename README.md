@@ -68,7 +68,35 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####Schedule####
 #####August 31 - Introduction: Data Visualization, Tools and Technologies#####
-- In class tutorial:
+- In class tutorials:
+  - [TODO] The Unix Command Line 
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
+  
+- At home tutorials:
+  - Github
+  - Javascript
 
-#####September 7 - (Labor day, no class!)#####
+#####September 7 - No class, Labor Day!#####
+
+#####September 14 - Data, Data, Data#####
+- Readings Due
+  - The Rhetoric of Data. 2013. http://towcenter.org/blog/the-rhetoric-of-data/
+  - The Data Journalism Handbook. 2012. Chapter 5: Understanding Data. http://datajournalismhandbook.org/1.0/en/understanding_data.html 
+  
+- In class tutorial
+  - Interactive Data Visualization for the Web. Chapter 5. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch05.html">Data</a>
+  
+- At home tutorials
+  - [Todo] MySQL
+  
+#####September 21 - #####
+#####September 28 - #####
+#####October 5 - #####
+#####October 12 - #####
+#####October 26 - #####
+#####November 2 - #####
+#####November 9 - #####
+#####November 16 - #####
+#####November 23 - Class feedback on final projects#####
+#####November 30 - #####
+#####December 7 - Final Project Presentations#####
