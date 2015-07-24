@@ -89,6 +89,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - At home tutorials
   - [TODO] MySQL
   
+- [TODO]**Assignment One Out**
+  
 #####September 21 - #####
 #####September 28 - #####
 #####October 5 - #####
