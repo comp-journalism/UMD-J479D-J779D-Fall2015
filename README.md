@@ -70,3 +70,5 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 #####August 31 - Introduction: Data Visualization, Tools and Technologies#####
 - In class tutorial:
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
+
+#####<span style="color: #ddd">September 7 - (Labor day, no class!)<span>#####
