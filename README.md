@@ -71,4 +71,4 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - In class tutorial:
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
 
-#####<p style="color: #ddd">September 7 - (Labor day, no class!)<p>#####
+#####<div style="color: red">September 7 - (Labor day, no class!)</div>#####
