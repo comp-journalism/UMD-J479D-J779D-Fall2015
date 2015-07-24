@@ -52,16 +52,16 @@ Students with a specific disability (permanent or temporary, physical or learnin
 ####Assignments & Evaluation###
 All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each instruction and project will be provided as per the class schedule. 
 
-- Assignments (45%)
+- *Assignments (45%)*
   - For 479D there will be a total for three assignments due in the class each worth 15% of your grade. Assignments will be evaluated based on accuracy, design and usability, aesthetic appeal, critical and analytic rigor, writing quality, and functionality.
-  - For 779D there will be a total of three assignments due in the class each worth 11% of your grade. Additionally there will be a written research paper for 779D worth 12% of your grade.
-- Final Project Proposal (10%)
+  - For 779D there will be a total of three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the research papers listed on the syllabus and this will count for 9% of your grade. 
+- *Final Project Proposal (10%)*
   - You will develop a final integrative data visualization project that utilizes the knowledge you acquire throughout the semester. Your project proposal will describe what you intend to visualize including the data you have acquired, and what you think the story is in the data based on any exploratory visualization and analysis.
-- Final Project (30%)
+- *Final Project (30%)*
   - Your final data visualization project should show that you have integrated the knowledge you acquire in this class. Your final grade will incorporate aspects of the design and usability of your visualization, the clarity and newsworthiness of the story, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
-- Class Participation (15%)
+- *Class Participation (15%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
 
 #####Late Work Policy#####
-Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will note be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
+Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
