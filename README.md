@@ -80,11 +80,11 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 #####September 14 - Data, Data, Data#####
 - Readings Due
-  - The Rhetoric of Data. 2013. http://towcenter.org/blog/the-rhetoric-of-data/
-  - The Data Journalism Handbook. 2012. Chapter 5: Understanding Data. http://datajournalismhandbook.org/1.0/en/understanding_data.html 
+  - The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
+  - The Data Journalism Handbook. 2012. Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
   
 - In class tutorial
-  - Interactive Data Visualization for the Web. Chapter 5. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch05.html">Data</a>
+  - Interactive Data Visualization for the Web. Chapter 5. [Data](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
   
 - At home tutorials
   - [TODO] MySQL
