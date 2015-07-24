@@ -89,16 +89,26 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - At home tutorials
   - [TODO] MySQL
   
-- [TODO]**Assignment One Out**
+- [TODO] **Assignment One Out**
   
-#####September 21 - #####
-#####September 28 - #####
-#####October 5 - #####
-#####October 12 - #####
-#####October 26 - #####
-#####November 2 - #####
-#####November 9 - #####
-#####November 16 - #####
+#####September 21 - Design & Prototyping#####
+#####September 28 - Perception and Design#####
+#####October 5 - Production Practices#####
+- [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
+- **Assignment 1 DUE**
+
+#####October 12 - Exploratory Visualization & Visual Analytics#####
+
+#####October 26 - Explanatory and Narrative Visualization#####
+
+#####November 2 - Visualization Rhetoric & Critique#####
+
+#####November 9 - User Experience & Usability Evaluation#####
+
+#####November 16 - Network, Timeline, and Text Visualizations#####
+
 #####November 23 - Class feedback on final projects#####
-#####November 30 - #####
+
+#####November 30 - Map Visualizations#####
+
 #####December 7 - Final Project Presentations#####
