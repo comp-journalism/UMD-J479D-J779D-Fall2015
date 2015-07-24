@@ -54,7 +54,7 @@ All assignments and projects are due at the start of the class unless otherwise 
 
 - *Assignments (45%)*
   - For 479D there will be a total for three assignments due in the class each worth 15% of your grade. Assignments will be evaluated based on accuracy, design and usability, aesthetic appeal, critical and analytic rigor, writing quality, and functionality.
-  - For 779D there will be a total of three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the research papers listed on the syllabus and this will count for 9% of your grade. 
+  - For 779D there will be three assignments due in the class each worth 12% of your grade. In addition, students in 779D will select, present, and lead discussion on one of the research papers listed on the syllabus and this will count for 9% of your grade. 
 - *Final Project Proposal (10%)*
   - You will develop a final integrative data visualization project that utilizes the knowledge you acquire throughout the semester. Your project proposal will describe what you intend to visualize including the data you have acquired, and what you think the story is in the data based on any exploratory visualization and analysis.
 - *Final Project (30%)*
