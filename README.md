@@ -82,6 +82,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings Due
   - Diakopoulos. The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
   - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
+
   
 - In class tutorial
   - Murray. *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
