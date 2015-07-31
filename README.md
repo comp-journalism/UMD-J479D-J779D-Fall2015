@@ -159,6 +159,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
   - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
+  
+- **Assignment DUE: Final Project Proposal**
 
 #####November 9 - Network, Timeline, and Text Visualizations#####
 - Readings Due
