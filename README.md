@@ -101,9 +101,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 #####September 28 - Perception and Design#####
 - Readings Due
-  - *Visual Thinking for Design.* Chapter 1: [Visual Queries](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
-  - *Visual Thinking for Design.* Chapter 2: [What We Can Easily See](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
-  - *Visual Thinking for Design.* Chapter 4: [Color](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
+  - *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
+  - *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
+  - *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
   - *The Functional Art.* Chapter 6: Visualizing for the Mind
   
 - Recommended Reading
