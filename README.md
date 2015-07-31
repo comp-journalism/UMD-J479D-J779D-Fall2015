@@ -72,9 +72,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - [TODO] The Unix Command Line 
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
   
-- At home tutorials:
+- Additional tutorials / resources:
   - [TODO] Github
-  - [TODO] Javascript
+  - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
 
 #####September 7 - No class, Labor Day!#####
 
@@ -86,7 +86,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - In class tutorial
   - Murray. *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
   
-- At home tutorials
+- Additional tutorials / resources
+  - JSON. [Link](http://learnxinyminutes.com/docs/json/)
   - [TODO] MySQL
   
 - [TODO] **Assignment One Out**
