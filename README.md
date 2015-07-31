@@ -147,7 +147,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings Dues
   - Hullman & Diakopoulos.  Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
-  - Tufte. *Beautiful Evidence* Corruption in Evidence Presentations: Effects Without Causes, Cherry-Picking, Overreaching, Chartjunk, and the Rage to Conclude. [Link](https://myelms.umd.edu/courses/1132632/files/37617475/download?wrap=1)
+  - Tufte. *Beautiful Evidence.* Corruption in Evidence Presentations: Effects Without Causes, Cherry-Picking, Overreaching, Chartjunk, and the Rage to Conclude. [Link](https://myelms.umd.edu/courses/1132632/files/37617475/download?wrap=1)
 
 - [TODO] **Assignment Three Out**
  
