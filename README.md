@@ -149,6 +149,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
   - Tufte. *Beautiful Evidence.* Corruption in Evidence Presentations: Effects Without Causes, Cherry-Picking, Overreaching, Chartjunk, and the Rage to Conclude. [Link](https://myelms.umd.edu/courses/1132632/files/37617475/download?wrap=1)
 
+- **Assignment Two DUE**
+
 - [TODO] **Assignment Three Out**
  
 #####November 2 - User Experience & Usability Evaluation#####
@@ -163,6 +165,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
   - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
   - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/courses/1132632/files/37014608/download?wrap=1)
+  
+- **Assignment Three DUE**
 
 #####November 16 - Map Visualizations#####
 
