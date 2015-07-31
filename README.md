@@ -91,15 +91,16 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - [TODO] **Assignment One Out**
   
-#####September 21 - Design & Prototyping#####
+#####September 21 - Visualization Design#####
 - Readings Due
-  - *The Functional Art.* Chapter 2: "Forms and Functions: Visualizations as a Technology"
+  - *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
   - *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
+  - *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/courses/1132632/files/36746781/download?wrap=1)
   
 - In class tutorial
   - *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
 
-#####September 28 - Perception and Design#####
+#####September 28 - Human Perception#####
 - Readings Due
   - *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
   - *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
@@ -113,12 +114,19 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
   - *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
    
-#####October 5 - Production Practices#####
+#####October 5 - Design & Production Practices#####
 - [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
-- **Assignment 1 DUE**
+
+- Readings / Viewings Due
+  - Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
+  - *The Functional Art.* Chapter 8: Creating Information Graphics
+  - *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/courses/1132632/files/36746784/download?wrap=1)
+  - *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/courses/1132632/files/36746785/download?wrap=1)
 
 - In class tutorial
   - *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
+  
+- **Assignment 1 DUE**
   
 #####October 12 - Exploratory Visualization & Visual Analytics#####
 
