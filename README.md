@@ -81,10 +81,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 #####September 14 - Data, Data, Data#####
 - Readings Due
   - The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
-  - The Data Journalism Handbook. 2012. Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
+  - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
   
 - In class tutorial
-  - Interactive Data Visualization for the Web. Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
+  - *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
   
 - At home tutorials
   - [TODO] MySQL
@@ -92,7 +92,23 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - [TODO] **Assignment One Out**
   
 #####September 21 - Design & Prototyping#####
+- Readings Due
+  - *The Functional Art.* Chapter 2: "Forms and Functions: Visualizations as a Technology"
+  - *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
+  
+- In class tutorial
+  - *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
+
 #####September 28 - Perception and Design#####
+- Readings Due
+  - *Visual Thinking for Design.* Chapter 1: [Visual Queries](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
+  - *Visual Thinking for Design.* Chapter 2: [What We Can Easily See](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
+  - *Visual Thinking for Design.* Chapter 4: [Color](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
+  - *The Functional Art.* Chapter 6: Visualizing for the Mind
+  
+- Recommended Reading
+  - Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
+
 #####October 5 - Production Practices#####
 - [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
 - **Assignment 1 DUE**
