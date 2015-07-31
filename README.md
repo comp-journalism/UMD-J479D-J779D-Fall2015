@@ -144,17 +144,25 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 #####October 26 - Visualization Rhetoric & Critique#####
-- Readings Dues
-  - Hullman & Diakopoulos.  Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
+- Readings Due
+  - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
   - Tufte. *Beautiful Evidence.* Corruption in Evidence Presentations: Effects Without Causes, Cherry-Picking, Overreaching, Chartjunk, and the Rage to Conclude. [Link](https://myelms.umd.edu/courses/1132632/files/37617475/download?wrap=1)
 
 - [TODO] **Assignment Three Out**
  
 #####November 2 - User Experience & Usability Evaluation#####
-
+- Readings Due
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/courses/1132632/files/36867130/download?wrap=1)
+  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
+  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
+  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
 
 #####November 9 - Network, Timeline, and Text Visualizations#####
+- Readings Due
+  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
+  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
+  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/courses/1132632/files/37014608/download?wrap=1)
 
 #####November 16 - Map Visualizations#####
 
