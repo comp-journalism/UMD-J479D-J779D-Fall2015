@@ -80,11 +80,11 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 #####September 14 - Data, Data, Data#####
 - Readings Due
-  - The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
+  - Diakopoulos. The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
   - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
   
 - In class tutorial
-  - *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
+  - Murray. *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
   
 - At home tutorials
   - [TODO] MySQL
@@ -93,48 +93,66 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 #####September 21 - Visualization Design#####
 - Readings Due
-  - *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
-  - *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
-  - *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/courses/1132632/files/36746781/download?wrap=1)
+  - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
+  - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
+  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/courses/1132632/files/36746781/download?wrap=1)
   
 - In class tutorial
-  - *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
+  - Murray. *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
 
 #####September 28 - Human Perception#####
 - Readings Due
-  - *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
-  - *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
-  - *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
-  - *The Functional Art.* Chapter 6: Visualizing for the Mind
+  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
+  - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
+  - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
+  - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
   
 - Recommended Reading
-  - Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
+  - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
 
 - In class tutorial
-  - *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
-  - *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
+  - Murray. *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
+  - Murray. *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
    
 #####October 5 - Design & Production Practices#####
 - [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
 
 - Readings / Viewings Due
-  - Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
-  - *The Functional Art.* Chapter 8: Creating Information Graphics
-  - *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/courses/1132632/files/36746784/download?wrap=1)
-  - *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/courses/1132632/files/36746785/download?wrap=1)
+  - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
+  - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/courses/1132632/files/36746784/download?wrap=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/courses/1132632/files/36746785/download?wrap=1)
 
 - In class tutorial
-  - *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
+  - Murray. *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
   
 - **Assignment 1 DUE**
+
+- **Assignment Out: Final Project Proposal**
   
 #####October 12 - Exploratory Visualization & Visual Analytics#####
+- Readings Due
+  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/courses/1132632/files/36923111/download?wrap=1)
+  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/courses/1132632/files/36923115/download?wrap=1)
+
+- [TODO] **Assignment Two Out**
 
 #####October 19 - Explanatory and Narrative Visualization#####
+- Readings Due
+  - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
+  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/courses/1132632/files/37451735/download?wrap=1)
+  - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 #####October 26 - Visualization Rhetoric & Critique#####
+- Readings Dues
+  - Hullman & Diakopoulos.  Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
+  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
+  - Tufte. *Beautiful Evidence* Corruption in Evidence Presentations: Effects Without Causes, Cherry-Picking, Overreaching, Chartjunk, and the Rage to Conclude. [Link](https://myelms.umd.edu/courses/1132632/files/37617475/download?wrap=1)
 
+- [TODO] **Assignment Three Out**
+ 
 #####November 2 - User Experience & Usability Evaluation#####
+
 
 #####November 9 - Network, Timeline, and Text Visualizations#####
 
@@ -143,5 +161,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 #####November 23 - Class feedback on final projects#####
 
 #####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization#####
+- Readings Due
+  - Heer et al. Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. Communications of the ACM. 2009. [Link](http://vis.stanford.edu/files/2009-Voyagers-CACM.pdf)
+  - Florit. The Boston Globe’s Gabriel Florit on Responsive Visualizations. [Link](https://source.opennews.org/en-US/articles/boston-globes-gabriel-florit-responsive-visualizat/)
+  - MobileVis Patterns and Best Practices. [Link](http://patterns.mobilev.is/)
 
 #####December 7 - Final Project Presentations#####
