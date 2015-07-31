@@ -109,10 +109,17 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Reading
   - Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
 
+- In class tutorial
+  - *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
+  - *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
+   
 #####October 5 - Production Practices#####
 - [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
 - **Assignment 1 DUE**
 
+- In class tutorial
+  - *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
+  
 #####October 12 - Exploratory Visualization & Visual Analytics#####
 
 #####October 19 - Explanatory and Narrative Visualization#####
