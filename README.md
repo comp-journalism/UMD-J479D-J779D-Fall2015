@@ -171,6 +171,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment Three DUE**
 
 #####November 16 - Map Visualizations#####
+- Readings Due
+  - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
 
 #####November 23 - Class feedback on final projects#####
 
