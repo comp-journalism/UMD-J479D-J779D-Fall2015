@@ -153,7 +153,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment Two DUE**
 
-- **Assignment Three - Visualization Critique - Out** [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-3---Visualization-Critique)
+- **Assignment Three OUT**
+  - Visualization Critique. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-3---Visualization-Critique)
  
 #####November 2 - User Experience & Usability Evaluation#####
 - Readings Due
