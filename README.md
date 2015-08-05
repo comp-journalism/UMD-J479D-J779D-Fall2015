@@ -145,12 +145,11 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/courses/1132632/files/37451735/download?wrap=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
-#####October 26 - User Experience & Usability Evaluation#####
+#####October 26 - Network, Timeline, and Text Visualizations#####
 - Readings Due
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/courses/1132632/files/36867130/download?wrap=1)
-  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
-  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
-  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
+  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
+  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
+  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/courses/1132632/files/37014608/download?wrap=1)
   
 - **Assignment DUE: Final Project Proposal**
 
@@ -165,14 +164,14 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment Three OUT**
   - Visualization Critique. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-3---Visualization-Critique)
 
-#####November 9 - Network, Timeline, and Text Visualizations#####
+#####November 9 - User Experience & Usability Evaluation#####
 - Readings Due
-  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
-  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
-  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/courses/1132632/files/37014608/download?wrap=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/courses/1132632/files/36867130/download?wrap=1)
+  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
+  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
+  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
   
-
-#####November 16 - Map Visualizations#####
+#####November 16 - Mapping#####
 - Readings Due
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
   
