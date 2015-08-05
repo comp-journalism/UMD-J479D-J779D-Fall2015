@@ -117,7 +117,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Murray. *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
    
 #####October 5 - Design & Production Practices#####
-- [TODO] get a visitor to come and talk about real newsroom methods, put some of the other lecture material in "vis design" lecture. 
 
 - Readings / Viewings Due
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
