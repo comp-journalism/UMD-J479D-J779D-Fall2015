@@ -137,7 +137,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/courses/1132632/files/36923111/download?wrap=1)
   - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/courses/1132632/files/36923115/download?wrap=1)
 
-- [TODO] **Assignment Two Out**
+- **Assignment Two Out**
+  - Exploratory Visualization for News Finding. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-2---Exploratory-Visualization-for-News-Finding)
 
 #####October 19 - Explanatory and Narrative Visualization#####
 - Readings Due
