@@ -119,6 +119,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
    
 #####October 5 - Design & Production Practices#####
 
+- Guest: Lindsey Cook, data reporter from U.S. News & World Report [Link](https://twitter.com/Lindzcook)
+
 - Readings / Viewings Due
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
   - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
