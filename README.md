@@ -73,8 +73,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - The Unix Command Line. [Basics](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Command-Line-Unix-Tutorial)
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
   
-- Additional tutorials / resources:
-  - [TODO] Github
+- Additional tutorials and refreshers:
+  - Github. [Hello World](https://guides.github.com/activities/hello-world/)
   - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
 
 #####September 7 - No class, Labor Day!#####
