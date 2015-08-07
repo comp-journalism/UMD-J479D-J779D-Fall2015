@@ -90,7 +90,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - Additional tutorials / resources
   - JSON. [Link](http://learnxinyminutes.com/docs/json/)
-  - [TODO] MySQL
+  - Introduction to MySQL (including interactive lessons) [Link](http://sqlbolt.com/)
   
 - [TODO] **Assignment One Out**
   
