@@ -76,6 +76,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Additional tutorials and refreshers:
   - Github. [Hello World](https://guides.github.com/activities/hello-world/)
   - Javascript. [Link](http://learnxinyminutes.com/docs/javascript/)
+  
+- **779D Assignment: Research Paper Presentation Out**
+  - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Research-Paper-Presentation)
 
 #####September 7 - No class, Labor Day!#####
 
@@ -91,7 +94,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Additional tutorials / resources
   - JSON. [Link](http://learnxinyminutes.com/docs/json/)
   - Introduction to MySQL (including interactive lessons) [Link](http://sqlbolt.com/)
-  
+
+- **779D Assignment: Research Paper Selection DUE**
+
 - **Assignment One Out**
   
 #####September 21 - Visualization Design#####
