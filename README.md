@@ -67,8 +67,8 @@ All assignments and projects are due at the start of the class unless otherwise 
 #####Late Work Policy#####
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
-####Schedule####
-#####August 31 - Introduction: Data Visualization, Tools and Technologies#####
+###Schedule###
+####August 31 - Introduction: Data Visualization, Tools and Technologies####
 - In class tutorials:
   - The Unix Command Line. [Basics](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Command-Line-Unix-Tutorial)
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
@@ -80,9 +80,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **779D Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Research-Paper-Presentation)
 
-#####September 7 - No class, Labor Day!#####
+####September 7 - No class, Labor Day!####
 
-#####September 14 - Data, Data, Data#####
+####September 14 - Data, Data, Data####
 - Readings Due
   - Diakopoulos. The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
   - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
@@ -99,7 +99,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment One Out**
   
-#####September 21 - Visualization Design#####
+####September 21 - Visualization Design####
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
   - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
@@ -111,7 +111,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - In class tutorial
   - Murray. *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
 
-#####September 28 - Human Perception#####
+####September 28 - Human Perception####
 - Readings Due
   - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
   - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
@@ -125,7 +125,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Murray. *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
   - Murray. *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
    
-#####October 5 - Design & Production Practices#####
+####October 5 - Design & Production Practices####
 
 - Guest: Lindsey Cook, data reporter from U.S. News & World Report [Link](https://twitter.com/Lindzcook)
 
@@ -142,7 +142,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment Out: Final Project Proposal**
   
-#####October 12 - Exploratory Visualization & Visual Analytics#####
+####October 12 - Exploratory Visualization & Visual Analytics####
 - Readings Due
   - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/courses/1132632/files/36923111/download?wrap=1)
   - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/courses/1132632/files/36923115/download?wrap=1)
@@ -150,13 +150,13 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment Two Out**
   - Exploratory Visualization for News Finding. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-2---Exploratory-Visualization-for-News-Finding)
 
-#####October 19 - Explanatory and Narrative Visualization#####
+####October 19 - Explanatory and Narrative Visualization####
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
   - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/courses/1132632/files/37451735/download?wrap=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
-#####October 26 - Network, Timeline, and Text Visualizations#####
+####October 26 - Network, Timeline, and Text Visualizations####
 - Readings Due
   - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
   - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
@@ -164,7 +164,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - **Assignment DUE: Final Project Proposal**
 
-#####November 2 - Visualization Rhetoric & Critique#####
+####November 2 - Visualization Rhetoric & Critique####
 - Readings Due
   - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
@@ -175,25 +175,25 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment Three OUT**
   - Visualization Critique. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-3---Visualization-Critique)
 
-#####November 9 - User Experience & Usability Evaluation#####
+####November 9 - User Experience & Usability Evaluation####
 - Readings Due
   - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/courses/1132632/files/36867130/download?wrap=1)
   - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
   - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
   
-#####November 16 - Mapping#####
+####November 16 - Mapping####
 - Readings Due
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
   
 - **Assignment Three DUE**
 
-#####November 23 - Class feedback on final projects#####
+####November 23 - Class feedback on final projects####
 
-#####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization#####
+####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization####
 - Readings Due
   - Heer et al. Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. Communications of the ACM. 2009. [Link](http://vis.stanford.edu/files/2009-Voyagers-CACM.pdf)
   - Florit. The Boston Globe’s Gabriel Florit on Responsive Visualizations. [Link](https://source.opennews.org/en-US/articles/boston-globes-gabriel-florit-responsive-visualizat/)
   - MobileVis Patterns and Best Practices. [Link](http://patterns.mobilev.is/)
 
-#####December 7 - Final Project Presentations#####
+####December 7 - Final Project Presentations####
