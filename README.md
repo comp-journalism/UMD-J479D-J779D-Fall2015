@@ -3,7 +3,7 @@
 **Mondays 1:00pm - 3:45pm**  
 **Location: Knight Hall Room 2107**
 
-**Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
+**Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="https://www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="https://www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
 **Office Hours**: Knight Hall Room 3207 from 4-5pm Mondays, or by appointment  
 **Course Website:** https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015
 
