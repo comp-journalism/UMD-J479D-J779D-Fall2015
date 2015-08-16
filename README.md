@@ -98,6 +98,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **779D Assignment: Research Paper Selection DUE**
 
 - **Assignment One Out**
+  - Illustrating a News Investigation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-1---Illustrating-a-News-Investigation)
   
 ####September 21 - Visualization Design####
 - Readings Due
