@@ -69,7 +69,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###Schedule###
 ####August 31 - Introduction: Data Visualization, Tools and Technologies####
-- [Lecture Slides](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/blob/master/Slides/1_Intro%20to%20data%20visualization.pptx?raw=true)
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/blob/master/Slides/1_Intro%20to%20data%20visualization.pptx?raw=true)
 - In class tutorials:
   - The Unix Command Line. [Basics](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Command-Line-Unix-Tutorial)
   - Interactive Data Visualization for the Web. Chapter 4. <a href="http://chimera.labs.oreilly.com/books/1230000000345/ch04.html">Setup</a>
