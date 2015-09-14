@@ -106,7 +106,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
   - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
-  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/courses/1132632/files/36746781/download?wrap=1)
+  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/files/39864926/download?download_frd=1)
   
 - Recommended Reading
   - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
