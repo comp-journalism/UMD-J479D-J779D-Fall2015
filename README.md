@@ -116,9 +116,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####September 28 - Visual Perception & Design####
 - Readings Due
-  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/courses/1132632/files/36867406/download?wrap=1)
-  - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/courses/1132632/files/36867408/download?wrap=1)
-  - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/courses/1132632/files/36867410/download?wrap=1)
+  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/39864928/download?download_frd=1)
+  - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/files/39864930/download?download_frd=1)
+  - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/files/39864929/download?download_frd=1)
   - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
   
 - Recommended Reading
@@ -135,8 +135,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings / Viewings Due
   - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
   - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/courses/1132632/files/36746784/download?wrap=1)
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/courses/1132632/files/36746785/download?wrap=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/files/39864914/download?download_frd=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/files/39864931/download?download_frd=1)
 
 - In class tutorial
   - Murray. *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
@@ -147,8 +147,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 ####October 12 - Exploratory Visualization & Visual Analytics####
 - Readings Due
-  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/courses/1132632/files/36923111/download?wrap=1)
-  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/courses/1132632/files/36923115/download?wrap=1)
+  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/files/39864875/download?download_frd=1)
+  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/files/39864881/download?download_frd=1)
 
 - **Assignment Two Out**
   - Exploratory Visualization for News Finding. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-2---Exploratory-Visualization-for-News-Finding)
@@ -156,21 +156,21 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####October 19 - Explanatory and Narrative Visualization####
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
-  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/courses/1132632/files/37451735/download?wrap=1)
+  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/39864867/download?download_frd=1)
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 ####October 26 - Network, Timeline, and Text Visualizations####
 - Readings Due
-  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/courses/1132632/files/37014598/download?wrap=1) 
-  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/courses/1132632/files/37014606/download?wrap=1) 
-  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/courses/1132632/files/37014608/download?wrap=1)
+  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/39864887/download?download_frd=1) 
+  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/39864889/download?download_frd=1) 
+  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/files/39864895/download?download_frd=1)
   
 - **Assignment DUE: Final Project Proposal**
 
 ####November 2 - Visualization Rhetoric & Critique####
 - Readings Due
   - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
-  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/courses/1132632/files/37617480/download?wrap=1)
+  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/39864873/download?download_frd=1)
   - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
 - **Assignment Two DUE**
@@ -180,10 +180,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####November 9 - User Experience & Usability Evaluation####
 - Readings Due
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/courses/1132632/files/36867130/download?wrap=1)
-  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/courses/1132632/files/36868864/download?wrap=1)
-  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/courses/1132632/files/36871787/download?wrap=1)
-  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/courses/1132632/files/36871786/download?wrap=1)
+  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/files/39864913/download?download_frd=1)
+  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/39864863/download?download_frd=1)
+  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/39864900/download?download_frd=1)
+  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/39864904/download?download_frd=1)
   
 ####November 16 - Mapping####
 - Readings Due
