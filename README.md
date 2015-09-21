@@ -103,6 +103,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Illustrating a News Investigation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-1---Illustrating-a-News-Investigation)
   
 ####September 21 - Visualization Design####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/3_Visualization%20Design.pptx)
 - Readings Due
   - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
   - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
