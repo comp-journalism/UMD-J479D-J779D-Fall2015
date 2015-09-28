@@ -116,6 +116,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Murray. *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
 
 ####September 28 - Visual Perception & Design####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/4_Visual_perception_and_design.pptx)
+
 - Readings Due
   - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/39864928/download?download_frd=1)
   - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/files/39864930/download?download_frd=1)
