@@ -146,7 +146,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - **Assignment 1 DUE**
 
-- **Assignment Out: Final Project Proposal**
+- **Assignment Out: Final Project Proposal** [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Final-Project)
   
 ####October 12 - Exploratory Visualization & Visual Analytics####
 - Readings Due
