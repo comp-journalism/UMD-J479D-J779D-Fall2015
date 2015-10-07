@@ -193,6 +193,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 ####November 16 - Mapping####
 - Readings Due
+  - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
   
 - **Assignment Three DUE**
