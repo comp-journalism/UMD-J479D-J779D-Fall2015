@@ -152,6 +152,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Final Project Proposal [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Final-Project)
   
 ####October 12 - Exploratory Visualization & Visual Analytics####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/6_Exploratory%20Visualization.pptx)
 - Readings Due
   - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/files/39864875/download?download_frd=1)
   - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/files/39864881/download?download_frd=1)
