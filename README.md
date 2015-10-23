@@ -161,6 +161,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Exploratory Visualization for News Finding. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-2---Exploratory-Visualization-for-News-Finding)
 
 ####October 19 - Explanatory and Narrative Visualization####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/7_Explanatory_narrative_visualization.pptx)
 - Readings Due
   - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
   - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/39864867/download?download_frd=1)
