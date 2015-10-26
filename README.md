@@ -168,6 +168,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
 
 ####October 26 - Network, Timeline, and Text Visualizations####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/8_Networks_timelines_texts.pptx)
 - Readings Due
   - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/39864887/download?download_frd=1) 
   - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/39864889/download?download_frd=1) 
