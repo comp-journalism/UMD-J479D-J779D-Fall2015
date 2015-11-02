@@ -177,6 +177,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment DUE: Final Project Proposal**
 
 ####November 2 - Visualization Rhetoric & Critique####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/9_Visualization%20Rhetoric%20and%20Critique.pptx)
 - Readings Due
   - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
   - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/39864873/download?download_frd=1)
