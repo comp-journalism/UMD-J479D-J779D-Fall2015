@@ -199,6 +199,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings Due
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+  - Marmonie, M. How to Lie with Maps. Chapter 2: Elements of the Map. [Link](https://myelms.umd.edu/files/40882408/download?download_frd=1)
   
 - **Assignment Three DUE**
 
