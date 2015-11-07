@@ -197,7 +197,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Heuristics
   - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
-  - Vizualization Specific List [Link]()
+  - Vizualization Specific List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Vis%20Heuristics.pdf)
   
 ####November 16 - Mapping####
 - Readings Due
