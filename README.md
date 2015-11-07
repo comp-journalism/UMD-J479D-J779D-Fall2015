@@ -194,6 +194,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/39864863/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/39864900/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/39864904/download?download_frd=1)
+
+- Heuristics
+  - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
+  - Vizualization Specific List [Link]()
   
 ####November 16 - Mapping####
 - Readings Due
