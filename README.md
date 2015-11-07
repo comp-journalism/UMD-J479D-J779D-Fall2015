@@ -190,7 +190,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####November 9 - User Experience & Usability Evaluation####
 - Readings Due
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 6: User Research. [Link](https://myelms.umd.edu/files/39864913/download?download_frd=1)
   - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/39864863/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/39864900/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/39864904/download?download_frd=1)
