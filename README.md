@@ -190,7 +190,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####November 9 - User Experience & Usability Evaluation####
 - Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/10_Visualization%20UX%20and%20Usability%20Evaluation.pptx)
-- Research Paper Presentation by Mukhul Agarwal on "Understanding Data Videos: Looking at Narrative Visualization through the Cinematography Lens" [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Mukul%20Agarwal%20-%20Research%20Paper%20Presentation%20-%20JOUR%20779D.pptx)
+- Research Paper Presentation by Mukul Agarwal on "Understanding Data Videos: Looking at Narrative Visualization through the Cinematography Lens" [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Mukul%20Agarwal%20-%20Research%20Paper%20Presentation%20-%20JOUR%20779D.pptx)
 - Readings Due
   - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/39864863/download?download_frd=1)
   - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/39864900/download?download_frd=1)
