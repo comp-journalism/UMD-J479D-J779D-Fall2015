@@ -202,6 +202,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Vizualization Specific List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Vis%20Heuristics.pdf)
   
 ####November 16 - Mapping####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/11_mapping.pptx)
+- Research Paper Presentation by Joey Trull on "Steve Haroz, Robert Kosara, Steven L. Franconeri. ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs. Proc. Human Factors in Computing Systems (CHI). 2015." [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Joey%20Trull%20-%20Presentation.pptx)
 - Readings Due
   - MapSchool [Link](http://mapschool.io/)
   - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
