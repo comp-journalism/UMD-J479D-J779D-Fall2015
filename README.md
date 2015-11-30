@@ -214,6 +214,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####November 23 - Class feedback on final projects####
 
 ####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization####
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/12_Mobile%20Artistic%20Collaborative%20Vis.pptx)
+- Research Paper Presentation by Rajath Rao on "Lyra: An Interactive Visualization Design Environment. Proc. EuroVis. 2014." [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Rajath%20Rao%20-%20paper_presentation.pptx)
 - Readings Due
   - Heer et al. Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. Communications of the ACM. 2009. [Link](http://vis.stanford.edu/files/2009-Voyagers-CACM.pdf)
   - Florit. The Boston Globe’s Gabriel Florit on Responsive Visualizations. [Link](https://source.opennews.org/en-US/articles/boston-globes-gabriel-florit-responsive-visualizat/)
